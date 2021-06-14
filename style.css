@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-size: larger;
+    color: red;
+    position: relative;
+}
+p{
+    color: tomato;
+}
